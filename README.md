@@ -1,4 +1,4 @@
-<img width="798" height="576" alt="Screen Shot 2569-04-03 at 22 31 37" src="https://github.com/user-attachments/assets/dce40507-bc62-49aa-84a0-c457b2071bc4" /># 🎮 Java Game Project
+## 🎮 Java Game Project
 
 A Java-based game project built using standard Java tools and libraries.  
 This project demonstrates core game logic, rendering, input handling, and game loop concepts in Java.
